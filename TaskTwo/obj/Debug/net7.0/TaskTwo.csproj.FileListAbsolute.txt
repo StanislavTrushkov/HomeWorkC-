@@ -1,0 +1,15 @@
+E:\Обучение\HomeWorkS1\TaskTwo\bin\Debug\net7.0\TaskTwo.exe
+E:\Обучение\HomeWorkS1\TaskTwo\bin\Debug\net7.0\TaskTwo.deps.json
+E:\Обучение\HomeWorkS1\TaskTwo\bin\Debug\net7.0\TaskTwo.runtimeconfig.json
+E:\Обучение\HomeWorkS1\TaskTwo\bin\Debug\net7.0\TaskTwo.dll
+E:\Обучение\HomeWorkS1\TaskTwo\bin\Debug\net7.0\TaskTwo.pdb
+E:\Обучение\HomeWorkS1\TaskTwo\obj\Debug\net7.0\TaskTwo.csproj.AssemblyReference.cache
+E:\Обучение\HomeWorkS1\TaskTwo\obj\Debug\net7.0\TaskTwo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\HomeWorkS1\TaskTwo\obj\Debug\net7.0\TaskTwo.AssemblyInfoInputs.cache
+E:\Обучение\HomeWorkS1\TaskTwo\obj\Debug\net7.0\TaskTwo.AssemblyInfo.cs
+E:\Обучение\HomeWorkS1\TaskTwo\obj\Debug\net7.0\TaskTwo.csproj.CoreCompileInputs.cache
+E:\Обучение\HomeWorkS1\TaskTwo\obj\Debug\net7.0\TaskTwo.dll
+E:\Обучение\HomeWorkS1\TaskTwo\obj\Debug\net7.0\refint\TaskTwo.dll
+E:\Обучение\HomeWorkS1\TaskTwo\obj\Debug\net7.0\TaskTwo.pdb
+E:\Обучение\HomeWorkS1\TaskTwo\obj\Debug\net7.0\TaskTwo.genruntimeconfig.cache
+E:\Обучение\HomeWorkS1\TaskTwo\obj\Debug\net7.0\ref\TaskTwo.dll
